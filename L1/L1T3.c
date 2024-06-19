@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-
+// kommentti 
 int main(void){
     
     // muuttujat
