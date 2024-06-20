@@ -1,6 +1,6 @@
 #include <stdio.h>
 #define MAX 99
-
+#define MIN 1
 int main(void){
     int jakaja = 0;
     int first = 1; // Flag 
